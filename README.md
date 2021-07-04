@@ -16,7 +16,6 @@
 </p>
 
 <div align='center'>
-<b>Senior Full Stack dev working on ecommerce shops</b><br>
-<b>Modal editing enthusiast</b>
+<b>Senior Full Stack Dev</b><br>
 </div>
 <hr/>
