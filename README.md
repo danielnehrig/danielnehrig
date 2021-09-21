@@ -19,4 +19,4 @@
 <b>Senior Full Stack Dev</b><br>
 </div>
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnehrig&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnehrig&layout=compact&hide=html,scss,css&show_icons=true&theme=radical"/>
