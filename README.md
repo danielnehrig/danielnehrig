@@ -20,6 +20,6 @@
 </div>
 <hr/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnehrig&layout=compact&hide=html,scss,css&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnehrig&layout=compact&hide=html,scss,css,c#,vim script&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api?username=danielnehrig&show_icons=true&theme=radical"/>
 </p>
