@@ -19,7 +19,13 @@
 <b>Senior Full Stack Dev</b><br>
 </div>
 <hr/>
-<p align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnehrig&layout=compact&hide=html,scss,css,cs,viml&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api?username=danielnehrig&show_icons=true&theme=radical&count_private=true"/>
-</p>
+</div>
+
+<div align='center'>
+<b>Open Source Contributions</b><br>
+</div>
+- https://github.com/mfussenegger/nvim-dap (Debug Adapter Protocol implementation with Neovim)
+- https://github.com/arctic-hen7/perseus (Serverside Rendering Framework for RUST wasm)
+- https://github.com/memflow/memflow (Memory Introspection Framework RUST)
