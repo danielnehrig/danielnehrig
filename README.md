@@ -20,12 +20,14 @@
 </div>
 <hr/>
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnehrig&layout=compact&hide=html,scss,css,cs,viml&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnehrig"/>
 </div>
 
 <div align='center'>
 <b>Open Source Contributions</b><br>
 </div>
-- https://github.com/mfussenegger/nvim-dap (Debug Adapter Protocol implementation with Neovim)
-- https://github.com/arctic-hen7/perseus (Serverside Rendering Framework for RUST wasm)
-- https://github.com/memflow/memflow (Memory Introspection Framework RUST)
+<ul>
+<li>https://github.com/mfussenegger/nvim-dap (Debug Adapter Protocol implementation with Neovim)</li>
+<li>https://github.com/arctic-hen7/perseus (Serverside Rendering Framework for RUST wasm)</li>
+<li>https://github.com/memflow/memflow (Memory Introspection Framework RUST)</li>
+</ul>
