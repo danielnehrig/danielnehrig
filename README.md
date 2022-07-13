@@ -19,9 +19,6 @@
 <b>Senior Full Stack Dev</b><br>
 </div>
 <hr/>
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnehrig"/>
-</div>
 
 <div align='center'>
 <b>Open Source Contributions</b><br>
