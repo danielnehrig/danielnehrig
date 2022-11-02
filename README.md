@@ -24,6 +24,7 @@
 <b>Open Source Contributions</b><br>
 </div>
 <ul>
+<li>https://github.com/sycamore-rs/sycamore (Sycamore reactive frontend framework for RUST wasm)</li>
 <li>https://github.com/mfussenegger/nvim-dap (Debug Adapter Protocol implementation with Neovim)</li>
 <li>https://github.com/arctic-hen7/perseus (Serverside Rendering Framework for RUST wasm)</li>
 <li>https://github.com/memflow/memflow (Memory Introspection Framework RUST)</li>
