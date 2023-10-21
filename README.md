@@ -24,6 +24,10 @@
 <b>Open Source Contributions</b><br>
 </div>
 <ul>
+<p align='center'>Maintainer</p>
+<li>https://github.com/danielnehrig/cortex (a rust based agnostic/generic database schema creation library)</li>
+<li>https://github.com/danielnehrig/nvim (neovim PDE IDE fully plugin weaponized and feature rich idiomatic mappings)</li>
+<p align='center'>Contributor</p>
 <li>https://github.com/sycamore-rs/sycamore (Sycamore reactive frontend framework for RUST wasm)</li>
 <li>https://github.com/mfussenegger/nvim-dap (Debug Adapter Protocol implementation with Neovim)</li>
 <li>https://github.com/arctic-hen7/perseus (Serverside Rendering Framework for RUST wasm)</li>
